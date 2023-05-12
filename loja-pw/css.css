@@ -1,0 +1,94 @@
+
+
+body{
+    /*degradeee---> background-image: linear-gradient(rgb(162, 134, 185), rgb(0, 217, 255));*/
+  background-color: rgb(70, 119, 122);
+    
+ }
+ #div-formlogin{
+     margin-top: 80px;
+     margin-left: auto;
+     margin-right: auto;
+     padding: 20px;
+     text-align: center;
+     background-color: #bcbcc0;
+     width: min-content;
+     height: 25%;
+     border: 20px;
+     border-radius: 50px;
+     text-align: center;
+    margin-top: 10px;
+    
+     padding: auto;
+     font-family: Georgia, 'Times New Roman', Times, serif
+ }
+
+ .div-login{
+     
+    font-size: larger;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    padding: 3%;
+
+    
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: rgba(245, 248, 248, 0.8);
+    box-shadow: 0 0 15px rgb(79, 95, 102);
+    text-align: center;
+
+
+
+    /*degrade---->
+    border-radius: 0px;
+    background-color: rgba(20, 15, 12, 0.1);
+    box-shadow: 0 0 15px rgb(79, 95, 102);*/
+
+
+ }
+ .btn-login{
+    padding: 15px;
+    font-size: large;
+    border: solid 1px rgb(64, 113, 128);
+    border-radius: 50px;
+    margin-top: 15%;
+    color: rgb(52, 111, 119);
+    
+    position: relative;
+    right: 70%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-left:auto;
+    margin-right: auto;
+    
+    
+ }
+ .btn-login:hover{
+    
+    background-color:rgb(70, 119, 122, 0.4);
+    color: white;
+
+ }
+
+ .input{
+    
+       
+        width: 100%;
+        margin-left:auto;
+        margin-right: auto;
+        padding: 10px;
+        border: none;
+        margin-bottom: 10px;
+        border-radius: 50px;
+    
+ }
+
+ .title{
+    border-bottom: solid 2px rgb(52, 111, 119);
+    border-radius: 10px;
+    width: 50%;
+    padding: 7px;
+    color: rgb(52, 111, 119);
+ }
